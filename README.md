@@ -497,6 +497,10 @@ models that enable capacity planning, network optimization and what-if scenario 
 - [Talk Python to me #128](https://talkpython.fm/episodes/embed_details/128) - Pythonic Networks with NAPALM.
 - [Talk Python to me #175](https://talkpython.fm/episodes/show/175/teaching-python-to-network-engineers) - Teaching Python to network engineers
 
+# Week 42
+- [Devops Path](https://dev.to/techworld_with_nana/from-zero-to-devops-engineer-devops-roadmap-for-your-specific-background-4h8n) - DevOps Roadmap for Engineers
+- 
+
 # Contributing
 
 Contributions about network automation are most welcome!
